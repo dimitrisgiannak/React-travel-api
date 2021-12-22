@@ -4,4 +4,4 @@
 
 # How to use
 
-* Inside project_travel_advisor run the following command : npm i npm run start
+* Inside project_travel_advisor run the following command : **npm i npm run start**
