@@ -3,8 +3,10 @@ import { alpha, makeStyles } from '@material-ui/core/styles';
 export default makeStyles((theme) => ({
   title: {
     display: 'block',
+    fontSize: '25px',
     [theme.breakpoints.down('sm')]: {
       display: 'block',
+      fontSize: '15px',
     },
   },
   boxStyle: {
