@@ -1,6 +1,13 @@
 # React-travel-companion
 
-# Travel api using Google maps, Google autocomplete, Travel advisor api from Rapidapi
+# Travel api using 
+
+* Google maps
+* Google autocomplete
+* Travel advisor api from Rapidapi
+* Material-ui
+* styled Components
+* styled Map from snazzymaps.com
 
 # How to use
 
